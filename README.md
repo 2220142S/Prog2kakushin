@@ -6,7 +6,7 @@
 pandasを使ってシフトを組むプログラム
 
 -[work2](https://colab.research.google.com/drive/14NxUaIPqHSz6_LY5FwszCMUoooLIzNDb)
-numpyを使って行列の式の値を求める
+numpyを使って行列の式の値を求めるプログラム
 
 -[work3](https://colab.research.google.com/drive/1wgfDu0yZ4slEnwiunY36MTSF6gzeaCXt)
-Turtleを使って年始のカウントダウンを行う
+Turtleを使って年始のカウントダウンを行うプログラム
